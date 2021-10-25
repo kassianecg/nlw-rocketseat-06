@@ -1,2 +1,2 @@
-# nlw-rocketsear-06
+# nlw-rocketseat-06
 Semana NLW da Rocketseat - edição #06
